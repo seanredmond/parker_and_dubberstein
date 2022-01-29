@@ -54,7 +54,7 @@ Should be interpreted to mean:
 - Parker and Dubberstain calculate September 15, 622 BCE as a visible new moon (-621 = 622 BCE)
 - The truncated Julian day is 1494495
 - This new moon begins the 7th month of this Babylonian year
-- The months is an intercalated Ululu
+- The month is an intercalated Ululu
 - The new moon conjunction occured at the Julian Day 1494492.92662818
 - The visible new moon is 2.07337181689218 after the conjunction
 
