@@ -27,7 +27,7 @@ This calendar became the foundation of many other calendars in the ancient Medit
 | file | description |
 | ---- | ----------- |
 | `parker_and_dubberstein.raw.txt` | raw text, slightly formatted from Parker and Dubberstein, pages 25-46 |
-| new_moons_jdn.txt | Julian days of new moons covered by Parker and Dubberstein's tables |
+| `new_moons_jdn.txt` | Julian days of new moons covered by Parker and Dubberstein's tables |
 | `parse_pdubs.py` | python script used to parse the raw file into tab-delimted format |
 
 ## Source
